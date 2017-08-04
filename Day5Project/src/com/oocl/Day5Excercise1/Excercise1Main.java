@@ -6,6 +6,7 @@ public class Excercise1Main {
 		// TODO Auto-generated method stub
 		System.out.println("Wazzza");
 		System.out.println("Waaaaaaaaazzzzzzza");
+		System.out.print("LOLOLOLOL");
 	}
 
 }
