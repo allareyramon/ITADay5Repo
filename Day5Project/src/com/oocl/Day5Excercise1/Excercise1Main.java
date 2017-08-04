@@ -6,6 +6,9 @@ public class Excercise1Main {
 		// TODO Auto-generated method stub
 		System.out.println("Wazzza");
 		System.out.println("Waaaaaaaaazzzzzzza");
+		for(int z=0; z<10; z++) {
+			System.out.println("check Hellow1");
+		}
 	}
 
 }
